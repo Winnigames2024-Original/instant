@@ -73,7 +73,7 @@ footer {
     width: 94px;
     height: 89px;
     position: absolute;
-    background: url('/media/images/transparent_button_small_sprite.png') no-repeat;
+    background: url('./transparent_button_small_sprite.png') no-repeat;
     background-position: -5px -5px;
     border: 0;
     display: block;
@@ -81,12 +81,12 @@ footer {
 }
 
 .small-button:focus {
-    background: url('/media/images/transparent_button_small_sprite.png') no-repeat;
+    background: url('./transparent_button_small_sprite.png') no-repeat;
     background-position: -5px -5px;
 }
 
 .small-button:active {
-    background: url('/media/images/transparent_button_small_sprite.png') no-repeat;
+    background: url('./transparent_button_small_sprite.png') no-repeat;
     background-position: -109px -5px;
 }
 
@@ -102,7 +102,7 @@ footer {
     width: 94px;
     height: 89px;
     margin-bottom:5px;
-    background: url('/media/images/transparent_button_small_shadow.png') no-repeat;
+    background: url('./transparent_button_small_shadow.png') no-repeat;
 }
 
 .circle {
@@ -113,7 +113,7 @@ footer {
     width: 200px;
     height: 190px;
     position: absolute;
-    background: url('/media/images/transparent_button_sprite.png') no-repeat;
+    background: url('./transparent_button_sprite.png') no-repeat;
     background-position: -5px -5px;
     border: 0;
     display: block;
@@ -121,12 +121,12 @@ footer {
 }
 
 .large-button:focus {
-    background: url('/media/images/transparent_button_sprite.png') no-repeat;
+    background: url('./transparent_button_sprite.png') no-repeat;
     background-position: -5px -5px;
 }
 
 .large-button:active {
-    background: url('/media/images/transparent_button_sprite.png') no-repeat ;
+    background: url('./transparent_button_sprite.png') no-repeat ;
     background-position: -215px -5px;
 }
 
@@ -141,7 +141,7 @@ footer {
 .large-button-shadow {
     width: 200px;
     height: 190px;
-    background: url('/media/images/transparent_button_shadow.png') no-repeat;
+    background: url('./transparent_button_shadow.png') no-repeat;
 }
 
 #instant_image {
@@ -243,7 +243,7 @@ footer {
     width: 970px;
     height:90px;
     margin: 0px auto 0px;
-    background-image: url('/media/images/ad-background.png');
+    background-image: url('./ad-background.png');
     justify-content: center;
 }
 
@@ -251,7 +251,7 @@ footer {
     width: 970px;
     height:250px;
     margin: 0px auto 0px;
-    background-image: url('/media/images/ad-background.png');
+    background-image: url('./ad-background.png');
     justify-content: center;
 }
 
@@ -259,7 +259,7 @@ footer {
     width: 320px;
     height: 100px;
     margin:0 auto 0px;
-    background-image: url('/media/images/ad-background.png');
+    background-image: url('./ad-background.png');
     justify-content: center;
 }
 
@@ -272,7 +272,7 @@ footer {
     width: 320px;
     margin:0 auto 20px;
     height:250px;
-    background-image: url('/media/images/ad-background.png');
+    background-image: url('./ad-background.png');
 }
 
 #footer-copyright {
